@@ -1,0 +1,6 @@
+@media only screen and (max-width: 1280px) {
+  #video {
+    width: 500px;
+    height: 500px;
+  }
+}
